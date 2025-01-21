@@ -18,7 +18,7 @@ Whenever there is a push to the `main` branch, the workflow triggers a build job
 - Node.js and npm should be installed.
 
 ### Live
-Access the live ToDo app [here](https://nandees13.github.io/Todo/).
+Access the live ToDo app [here](https://google.com/).
 
 ### Installation
 
