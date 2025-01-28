@@ -7,18 +7,6 @@ The CI/CD pipeline automates the build and deployment process to GitHub Pages wh
 
 ### Workflow Steps
 
-#### Build and Deploy
-
-Whenever there is a push to the `main` branch, the workflow triggers a build job and deploys the app:
-
-## Getting Started
-
-### Prerequisites
-
-- Node.js and npm should be installed.
-
-### Live
-Access the live ToDo app [here](https://google.com/).
 
 ### Installation
 
